@@ -92,9 +92,9 @@ cmd(_0x2d237a, async (_0x575f94, _0x1c6df6, _0x5675b5, {
         url: config.LOGO
       };
       const _0x374aba = {
-        caption: "🎬 HIRAN MD MOVIE-DL 🎬\n\nAvailble movies sites....\n\n- Cinesubz ➱ https://cinesubz.co/\n- Sinhalasubs ➱ https://sinhalasub.lk/\n- Ytsmx ➱ https://yts.mx/\n- Pirate ➱ https://pirate.lk/\n- Ginisisila ➱ https://ginisisilacartoon.net/\n- Slanimeclub ➱ https://slanimeclub.co/\n- Firemovie ➱ https://firemovieshub.com/\n\n\nAvailable Subtitle sites....\n\n- Sinhalasubstitle ➱ https://sinhala-subtitles.com/\n- Zoom ➱ https://zoom.lk/\n- Subz ➱ https://subz.lk/",
+        caption: "🎬 VAJIRA MD MOVIE-DL 🎬\n\nAvailble movies sites....\n\n- Cinesubz ➱ https://cinesubz.co/\n- Sinhalasubs ➱ https://sinhalasub.lk/\n- Ytsmx ➱ https://yts.mx/\n- Pirate ➱ https://pirate.lk/\n- Ginisisila ➱ https://ginisisilacartoon.net/\n- Slanimeclub ➱ https://slanimeclub.co/\n- Firemovie ➱ https://firemovieshub.com/\n\n\nAvailable Subtitle sites....\n\n- Sinhalasubstitle ➱ https://sinhala-subtitles.com/\n- Zoom ➱ https://zoom.lk/\n- Subz ➱ https://subz.lk/",
         image: _0xe06e55,
-        footer: "MOVIE DOWNLOADER BY HIRAN MD",
+        footer: "MOVIE DOWNLOADER BY VAJIRA MD",
         title: "Result from Cinezubs & Ytsmx & Firemoviehub and sinhalasub. 📲",
         buttonText: "*🔢 Reply below number*",
         sections: _0x3ebdd9
@@ -183,7 +183,7 @@ cmd(_0x2d237a, async (_0x575f94, _0x1c6df6, _0x5675b5, {
       };
       _0x575f94.sendMessage(_0x231e60, {
         'image': _0x562b0a,
-        'caption': "🎬 HIRAN MD MOVIE-DL 🎬\n\nAvailble movies sites....\n\n- Cinesubz ➱ https://cinesubz.co/\n- Sinhalasubs ➱ https://sinhalasub.lk/\n- Ytsmx ➱ https://yts.mx/\n- Pirate ➱ https://pirate.lk/\n- Ginisisila ➱ https://ginisisilacartoon.net/\n- Slanimeclub ➱ https://slanimeclub.co/\n- Firemovie ➱ https://firemovieshub.com/\n\n\nAvailable Subtitle sites....\n\n- Sinhalasubstitle ➱ https://sinhala-subtitles.com/\n- Zoom ➱ https://zoom.lk/\n- Subz ➱ https://subz.lk/",
+        'caption': "🎬 VAJIRA MD MOVIE-DL 🎬\n\nAvailble movies sites....\n\n- Cinesubz ➱ https://cinesubz.co/\n- Sinhalasubs ➱ https://sinhalasub.lk/\n- Ytsmx ➱ https://yts.mx/\n- Pirate ➱ https://pirate.lk/\n- Ginisisila ➱ https://ginisisilacartoon.net/\n- Slanimeclub ➱ https://slanimeclub.co/\n- Firemovie ➱ https://firemovieshub.com/\n\n\nAvailable Subtitle sites....\n\n- Sinhalasubstitle ➱ https://sinhala-subtitles.com/\n- Zoom ➱ https://zoom.lk/\n- Subz ➱ https://subz.lk/",
         'footer': config.FOOTER,
         'buttons': [_0x2e604f, {
           'buttonId': "action",
@@ -270,7 +270,7 @@ cmd(_0xf18a1, async (_0xf000cf, _0x58fb25, _0x2615c6, {
       url: "https://i.ibb.co/0s0WcmF/1og6o9e2.png"
     };
     const _0x74cac9 = {
-      caption: "🎬 HIRAN MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x956733 + "\n📲 Search top 10 Movies\n",
+      caption: "🎬 VAJIRA MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x956733 + "\n📲 Search top 10 Movies\n",
       image: _0x3cba46,
       footer: "MOVIE DOWNLOADER BY TC",
       title: "Search By firemovieshub",
@@ -318,7 +318,7 @@ cmd(_0xd50a51, async (_0x31019d, _0x2508f9, _0x3113a7, {
     }];
     const _0x1cc6cc = {
       text: _0x535b90,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Search By ginisisila",
       buttonText: "*🔢 Reply below number*",
       sections: _0x215d58
@@ -2395,9 +2395,9 @@ cmd(_0x21551a, async (_0x45faa1, _0x58aefb, _0x3a9072, {
       url: config.LOGO
     };
     const _0x38c26c = {
-      caption: "🎬 HIRAN MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x192702 + "\n📲 Search top 10 Movies\n",
+      caption: "🎬 VAJIRA MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x192702 + "\n📲 Search top 10 Movies\n",
       image: _0x4196e4,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Result from zoom. 📲",
       buttonText: "*🔢 Reply below number*",
       sections: _0x1e39bc
@@ -2448,7 +2448,7 @@ cmd(_0x317701, async (_0x1bd00a, _0x464616, _0x5c86c6, {
     }];
     const _0x2e1403 = {
       text: _0x1f4405,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Search By zoom",
       buttonText: "*🔢 Reply below number*",
       sections: _0x21e689
@@ -2520,7 +2520,7 @@ cmd(_0x2cacdb, async (_0x6a0f43, _0x554230, _0x30baa2, {
     const _0x2e2952 = {
       caption: "⏳ Search A SubsTitle Name: " + _0x3460c5 + "\n📲 Search top 10 SubsTitles\n",
       image: _0x4c32d0,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Search By subz",
       buttonText: "*🔢 Reply below number*",
       sections: _0x494d98
@@ -2577,7 +2577,7 @@ cmd(_0x4341a6, async (_0x587de8, _0x3e2f07, _0x413662, {
     const _0x4eba25 = {
       caption: _0x523636,
       image: _0x32b024,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Search By subz",
       buttonText: "*🔢 Reply below number*",
       sections: _0x5e6170
@@ -2648,9 +2648,9 @@ cmd(_0x584e, async (_0x3ac057, _0x3bb741, _0x463906, {
       url: config.LOGO
     };
     const _0x200521 = {
-      caption: "🎬 HIRAN MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x5b774d + "\n📲 Search top 10 Movies\n",
+      caption: "🎬 VAJIRA MD MOVIE-DL 🎬\n\n   ⏳ Search A Movie Name: " + _0x5b774d + "\n📲 Search top 10 Movies\n",
       image: _0x10b990,
-      footer: "MOVIE DOWNLOADER BY HIRAN MD",
+      footer: "MOVIE DOWNLOADER BY VAJIRA MD",
       title: "Result from sinhala-subtitles. 📲",
       buttonText: "*🔢 Reply below number*",
       sections: _0x6a52bf
@@ -2758,7 +2758,7 @@ cmd(_0x3961b4, async (_0x5284e7, _0x3d45cf, _0x5c8925, {
     }
     const _0x29a2b4 = {
       'document': await getBuffer(_0x9f99b7),
-      'caption': _0x227771 + "\n\n*> 🎬 HIRAN MD TEAM MOVIEDL 🎬*",
+      'caption': _0x227771 + "\n\n*> 🎬 VAJIRA MD TEAM MOVIEDL 🎬*",
       'mimetype': "video/mp4",
       'fileName': _0x227771 + ".mp4"
     };
@@ -2813,7 +2813,7 @@ cmd(_0x31e1f8, async (_0x5482ce, _0x518b6c, _0x2cc8be, {
     }
     const _0x384c0e = {
       'document': await getBuffer(_0x1167b7),
-      'caption': _0x3076e1 + "\n\n*> 🎬 HIRAN MD TEAM MOVIEDL 🎬*",
+      'caption': _0x3076e1 + "\n\n*> 🎬 VAJIRA MD TEAM MOVIEDL 🎬*",
       'mimetype': "video/mp4",
       'fileName': _0x3076e1 + ".mp4"
     };
@@ -2851,7 +2851,7 @@ cmd(_0x35d809, async (_0x18392e, _0x5651f8, _0x11f9f9, {
   }
   try {
     const _0x44a577 = _0x419c1d.split('|')[0];
-    const _0x5e7c02 = _0x419c1d.split('|')[1] || "hiran_md_sub_dl_system";
+    const _0x5e7c02 = _0x419c1d.split('|')[1] || "vajira_md_sub_dl_system";
     var _0x5ab058 = ["《 █▒▒▒▒▒▒▒▒▒▒▒》10%", "《 ████▒▒▒▒▒▒▒▒》30%", "《 ███████▒▒▒▒▒》50%", "《 ██████████▒▒》80%", "《 ████████████》100%", "𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚉𝙴𝙳 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."];
     const _0x2ae1af = {
       text: "ᴜᴘʟᴏᴀᴅɪɴɢ ᴍᴏᴠɪᴇ..."
@@ -2868,8 +2868,8 @@ cmd(_0x35d809, async (_0x18392e, _0x5651f8, _0x11f9f9, {
     }
     const _0x4ec461 = {
       'document': await getBuffer(_0x44a577),
-      'caption': "*🎬 HIRAN MD SUB-DL 🎬*",
-      'mimetype': "HIRAN MD SUB DL",
+      'caption': "*🎬 VAJIRA MD SUB-DL 🎬*",
+      'mimetype': "VAJIRA MD SUB DL",
       'fileName': _0x5e7c02 + ".zip"
     };
     const _0x468d3b = {
@@ -2890,8 +2890,6 @@ cmd(_0x35d809, async (_0x18392e, _0x5651f8, _0x11f9f9, {
       quoted: _0x5651f8
     };
     await _0x18392e.sendMessage(_0x54db15, "*Error fetching or sending *", _0x1a1c0c);
-  }
-});x1a1c0c);
   }
 }); }
 });
